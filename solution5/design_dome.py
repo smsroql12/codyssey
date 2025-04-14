@@ -22,3 +22,6 @@ try:
     print(parts3)
 except Exception as e:
     print('전치행렬 오류: ', e)
+
+mean_parts = np.mean(parts)
+print("전체 parts 배열의 평균값:", mean_parts)
