@@ -1,0 +1,2 @@
+system_info=os,os_version,cpu,cpu_cores,memory
+system_load=cpu_usage,memory_usage
